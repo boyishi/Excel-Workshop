@@ -8,3 +8,8 @@ Project #1: Payroll
 - SUM, AVG, MIN, MAX
 
 Project #2: Gradebook
+- Conditional Formatting
+- OR formula 
+- Graphs 
+
+Project #3: Decision Factors
