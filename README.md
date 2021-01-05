@@ -1,9 +1,7 @@
 # Excel-Workshop
 
 Project #1: Payroll
-- Relative vs Absolute ($C5 vs C$5)
-  - $C5 => Column
-  - C$5 => Row
+- Relative vs Absolute ($C5 and C$5)
 - IF else 
 - SUM, AVG, MIN, MAX
 
