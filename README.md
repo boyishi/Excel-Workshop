@@ -1,0 +1,10 @@
+# Excel-Workshop
+
+Project #1: Payroll
+- Relative vs Absolute ($C5 vs C$5)
+  - $C5 => Column
+  - C$5 => Row
+- IF else 
+- SUM, AVG, MIN, MAX
+
+Project #2: Gradebook
