@@ -12,4 +12,10 @@ Project #2: Gradebook
 - OR formula 
 - Graphs 
 
-Project #3: Decision Factors
+Project #3: Sales Database
+- Import / Export data from CSV
+- SUMIF
+- Sort
+- Filter
+- Pivot Tables
+
