@@ -21,3 +21,6 @@ Project 4: Car Database
 - VLOOKUP
 - LEFT, MID, RIGHT
 - CONCATENATION
+
+Project 5: Decision Making
+- Used everything that I learned from previous projects to anaylze data and make decisions
