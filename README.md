@@ -1,4 +1,5 @@
 # Excel-Workshop
+DESC: Created a couple of project to learn about Excel
 
 Project #1: Payroll
 - Relative vs Absolute ($C5 and C$5)
