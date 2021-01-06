@@ -11,9 +11,13 @@ Project #2: Gradebook
 - Graphs 
 
 Project #3: Sales Database
-- Import / Export data from CSV
 - SUMIF
 - Sort
 - Filter
 - Pivot Tables
 
+Project 4: Car Database
+- Import / Export data from CSV
+- VLOOKUP
+- LEFT, MID, RIGHT
+- CONCATENATION
